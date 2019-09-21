@@ -4,3 +4,4 @@ ThunderCLaw
 AGE:21
 Mission:
 Current:
+......
